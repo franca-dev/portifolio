@@ -1,46 +1,40 @@
+# Portifólio
 
-# Título do Projeto
-
-Uma breve descrição sobre o que esse projeto faz e para quem ele é
-
-# Documentação
-
-Documentação
+Portifólio desenvolvido no curso de Programador de Sistemas - Senac/RN
 
 
-## 🚀 Sobre mim
-Eu sou uma pessoa desenvolvedora full-stack...
 
 
-## 🛠 Habilidades
-Javascript, HTML, CSS...
+## Como utilizar este template
 
+Instale o Github Desktop ou use o terminal para:
+
+```bash
+  cd meu-projeto
+  git clone https://github.com/franca-dev/portifolio
+```
+    
+## Autores
+
+- [Gabriel França](https://github.com/franca-dev)
+
+
+## Aprendizados
+
+- html
+- bootstrap
+- git
+- github
 
 ## Licença
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-## FAQ
-
-#### Questão 1
-
-Resposta 1
-
-#### Questão 2
-
-Resposta 2
+## Habilidades
+Python, HTML, Bootstrap...
 
 
-## Suporte
-
-Para suporte, mande um email para fake@fake.com ou entre em nosso canal do Slack.
-
-
-## Usado por
-
-Esse projeto é usado pelas seguintes empresas:
-
-- Empresa 1
-- Empresa 2
+## Sobre mim
+Sou estudante de Front-end, trabalho com Infraestrutura de Redes, gosto muito de apender coisas novas nas horas vagas.
 
